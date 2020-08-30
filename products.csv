@@ -1,0 +1,2186 @@
+productID,productName,supplierID,categoryID,quantityerUnit,unitPrice,unitsInStock,unitsOnOrder,reorderLevel,discontinued
+1,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+2,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+3,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+4,Chef Anton's Cajun Seasoning,2,2,48 - 6 oz jars,22.0000,53,0,0,0
+5,Chef Anton's Gumbo Mix,2,2,36 boxes,21.3500,0,0,0,1
+6,Grandma's Boysenberry Spread,3,2,12 - 8 oz jars,25.0000,120,0,25,0
+7,Uncle Bob's Organic Dried Pears,3,7,12 - 1 lb pkgs.,30.0000,15,0,10,0
+8,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+9,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+10,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+11,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+12,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+13,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+14,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+15,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+16,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+17,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+18,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+19,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+20,Sir Rodney's Marmalade,8,3,30 gift boxes,81.0000,40,0,0,0
+21,Sir Rodney's Scones,8,3,24 pkgs. x 4 pieces,10.0000,3,40,5,0
+22,Gustaf's Knckebrd,9,5,24 - 500 g pkgs.,21.0000,104,0,25,0
+23,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+24,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+25,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+26,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+27,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+28,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+29,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+31,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+32,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+33,Geitost,15,4,500 g,2.5000,112,0,20,0
+34,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+35,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+36,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+37,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+38,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+39,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+40,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+41,Jack's New England Clam Chowder,19,8,12 - 12 oz cans,9.6500,85,0,10,0
+42,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+43,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+44,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+45,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+46,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+47,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+48,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+49,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+50,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+51,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+52,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+53,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+54,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+55,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+56,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+57,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+58,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+59,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+60,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+61,Sirop d'rable,29,2,24 - 500 ml bottles,28.5000,113,0,25,0
+62,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+63,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+64,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+65,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+66,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+67,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+68,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+69,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+70,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+71,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+72,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+73,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+74,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+75,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+76,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+77,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+78,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+79,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+80,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+81,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+82,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+83,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+84,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+85,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+86,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+87,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+88,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+89,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+90,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+91,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+92,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+93,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+94,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+95,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+96,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+97,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+98,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+99,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+100,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+101,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+102,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+103,Geitost,15,4,500 g,2.5000,112,0,20,0
+104,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+105,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+106,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+107,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+108,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+109,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+110,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+111,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+112,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+113,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+114,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+115,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+116,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+117,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+118,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+119,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+120,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+121,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+122,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+123,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+124,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+125,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+126,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+127,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+128,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+129,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+130,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+131,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+132,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+133,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+134,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+135,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+136,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+137,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+138,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+139,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+140,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+141,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+142,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+143,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+144,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+145,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+146,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+147,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+148,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+149,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+150,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+151,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+152,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+153,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+154,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+155,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+156,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+157,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+158,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+159,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+160,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+161,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+162,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+163,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+164,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+165,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+166,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+167,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+168,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+169,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+170,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+171,Geitost,15,4,500 g,2.5000,112,0,20,0
+172,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+173,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+174,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+175,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+176,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+177,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+178,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+179,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+180,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+181,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+182,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+183,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+184,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+185,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+186,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+187,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+188,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+189,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+190,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+191,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+192,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+193,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+194,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+195,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+196,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+197,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+198,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+199,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+200,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+201,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+202,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+203,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+204,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+205,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+206,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+207,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+208,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+209,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+210,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+211,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+212,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+213,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+214,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+215,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+216,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+217,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+218,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+219,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+220,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+221,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+222,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+223,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+224,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+225,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+226,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+227,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+228,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+229,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+230,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+231,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+232,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+233,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+234,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+235,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+236,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+237,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+238,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+239,Geitost,15,4,500 g,2.5000,112,0,20,0
+240,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+241,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+242,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+243,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+244,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+245,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+246,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+247,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+248,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+249,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+250,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+251,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+252,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+253,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+254,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+255,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+256,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+257,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+258,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+259,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+260,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+261,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+262,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+263,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+264,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+265,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+266,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+267,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+268,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+269,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+270,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+271,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+272,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+273,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+274,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+275,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+276,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+277,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+278,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+279,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+280,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+281,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+282,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+283,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+284,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+285,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+286,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+287,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+288,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+289,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+290,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+291,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+292,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+293,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+294,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+295,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+296,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+297,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+298,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+299,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+300,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+301,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+302,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+303,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+304,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+305,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+306,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+307,Geitost,15,4,500 g,2.5000,112,0,20,0
+308,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+309,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+310,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+311,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+312,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+313,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+314,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+315,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+316,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+317,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+318,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+319,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+320,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+321,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+322,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+323,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+324,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+325,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+326,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+327,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+328,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+329,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+330,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+331,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+332,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+333,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+334,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+335,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+336,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+337,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+338,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+339,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+340,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+341,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+342,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+343,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+344,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+345,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+346,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+347,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+348,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+349,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+350,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+351,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+352,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+353,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+354,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+355,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+356,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+357,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+358,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+359,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+360,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+361,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+362,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+363,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+364,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+365,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+366,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+367,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+368,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+369,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+370,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+371,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+372,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+373,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+374,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+375,Geitost,15,4,500 g,2.5000,112,0,20,0
+376,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+377,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+378,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+379,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+380,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+381,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+382,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+383,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+384,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+385,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+386,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+387,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+388,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+389,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+390,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+391,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+392,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+393,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+394,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+395,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+396,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+397,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+398,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+399,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+400,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+401,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+402,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+403,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+404,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+405,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+406,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+407,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+408,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+409,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+410,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+411,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+412,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+413,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+414,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+415,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+416,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+417,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+418,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+419,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+420,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+421,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+422,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+423,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+424,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+425,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+426,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+427,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+428,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+429,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+430,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+431,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+432,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+433,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+434,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+435,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+436,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+437,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+438,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+439,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+440,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+441,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+442,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+443,Geitost,15,4,500 g,2.5000,112,0,20,0
+444,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+445,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+446,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+447,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+448,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+449,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+450,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+451,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+452,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+453,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+454,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+455,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+456,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+457,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+458,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+459,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+460,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+461,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+462,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+463,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+464,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+465,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+466,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+467,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+468,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+469,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+470,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+471,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+472,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+473,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+474,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+475,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+476,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+477,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+478,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+479,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+480,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+481,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+482,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+483,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+484,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+485,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+486,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+487,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+488,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+489,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+490,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+491,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+492,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+493,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+494,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+495,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+496,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+497,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+498,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+499,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+500,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+501,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+502,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+503,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+504,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+505,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+506,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+507,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+508,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+509,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+510,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+511,Geitost,15,4,500 g,2.5000,112,0,20,0
+512,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+513,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+514,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+515,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+516,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+517,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+518,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+519,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+520,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+521,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+522,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+523,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+524,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+525,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+526,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+527,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+528,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+529,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+530,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+531,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+532,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+533,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+534,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+535,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+536,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+537,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+538,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+539,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+540,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+541,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+542,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+543,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+544,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+545,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+546,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+547,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+548,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+549,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+550,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+551,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+552,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+553,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+554,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+555,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+556,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+557,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+558,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+559,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+560,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+561,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+562,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+563,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+564,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+565,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+566,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+567,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+568,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+569,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+570,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+571,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+572,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+573,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+574,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+575,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+576,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+577,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+578,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+579,Geitost,15,4,500 g,2.5000,112,0,20,0
+580,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+581,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+582,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+583,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+584,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+585,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+586,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+587,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+588,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+589,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+590,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+591,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+592,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+593,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+594,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+595,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+596,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+597,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+598,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+599,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+600,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+601,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+602,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+603,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+604,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+605,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+606,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+607,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+608,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+609,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+610,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+611,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+612,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+613,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+614,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+615,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+616,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+617,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+618,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+619,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+620,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+621,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+622,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+623,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+624,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+625,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+626,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+627,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+628,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+629,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+630,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+631,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+632,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+633,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+634,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+635,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+636,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+637,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+638,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+639,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+640,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+641,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+642,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+643,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+644,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+645,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+646,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+647,Geitost,15,4,500 g,2.5000,112,0,20,0
+648,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+649,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+650,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+651,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+652,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+653,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+654,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+655,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+656,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+657,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+658,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+659,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+660,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+661,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+662,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+663,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+664,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+665,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+666,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+667,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+668,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+669,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+670,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+671,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+672,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+673,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+674,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+675,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+676,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+677,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+678,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+679,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+680,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+681,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+682,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+683,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+684,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+685,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+686,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+687,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+688,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+689,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+690,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+691,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+692,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+693,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+694,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+695,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+696,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+697,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+698,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+699,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+700,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+701,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+702,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+703,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+704,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+705,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+706,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+707,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+708,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+709,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+710,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+711,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+712,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+713,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+714,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+715,Geitost,15,4,500 g,2.5000,112,0,20,0
+716,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+717,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+718,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+719,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+720,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+721,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+722,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+723,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+724,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+725,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+726,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+727,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+728,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+729,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+730,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+731,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+732,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+733,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+734,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+735,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+736,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+737,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+738,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+739,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+740,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+741,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+742,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+743,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+744,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+745,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+746,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+747,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+748,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+749,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+750,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+751,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+752,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+753,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+754,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+755,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+756,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+757,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+758,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+759,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+760,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+761,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+762,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+763,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+764,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+765,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+766,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+767,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+768,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+769,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+770,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+771,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+772,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+773,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+774,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+775,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+776,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+777,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+778,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+779,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+780,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+781,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+782,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+783,Geitost,15,4,500 g,2.5000,112,0,20,0
+784,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+785,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+786,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+787,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+788,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+789,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+790,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+791,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+792,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+793,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+794,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+795,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+796,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+797,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+798,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+799,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+800,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+801,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+802,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+803,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+804,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+805,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+806,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+807,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+808,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+809,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+810,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+811,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+812,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+813,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+814,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+815,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+816,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+817,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+818,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+819,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+820,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+821,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+822,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+823,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+824,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+825,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+826,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+827,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+828,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+829,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+830,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+831,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+832,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+833,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+834,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+835,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+836,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+837,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+838,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+839,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+840,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+841,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+842,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+843,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+844,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+845,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+846,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+847,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+848,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+849,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+850,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+851,Geitost,15,4,500 g,2.5000,112,0,20,0
+852,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+853,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+854,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+855,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+856,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+857,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+858,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+859,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+860,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+861,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+862,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+863,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+864,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+865,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+866,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+867,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+868,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+869,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+870,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+871,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+872,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+873,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+874,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+875,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+876,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+877,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+878,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+879,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+880,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+881,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+882,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+883,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+884,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+885,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+886,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+887,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+888,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+889,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+890,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+891,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+892,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+893,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+894,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+895,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+896,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+897,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+898,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+899,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+900,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+901,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+902,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+903,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+904,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+905,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+906,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+907,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+908,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+909,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+910,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+911,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+912,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+913,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+914,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+915,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+916,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+917,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+918,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+919,Geitost,15,4,500 g,2.5000,112,0,20,0
+920,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+921,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+922,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+923,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+924,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+925,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+926,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+927,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+928,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+929,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+930,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+931,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+932,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+933,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+934,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+935,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+936,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+937,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+938,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+939,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+940,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+941,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+942,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+943,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+944,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+945,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+946,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+947,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+948,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+949,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+950,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+951,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+952,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+953,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+954,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+955,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+956,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+957,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+958,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+959,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+960,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+961,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+962,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+963,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+964,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+965,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+966,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+967,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+968,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+969,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+970,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+971,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+972,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+973,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+974,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+975,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+976,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+977,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+978,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+979,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+980,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+981,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+982,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+983,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+984,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+985,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+986,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+987,Geitost,15,4,500 g,2.5000,112,0,20,0
+988,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+989,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+990,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+991,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+992,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+993,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+994,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+995,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+996,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+997,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+998,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+999,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1000,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1001,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1002,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1003,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1004,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1005,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1006,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1007,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1008,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1009,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1010,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1011,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1012,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1013,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1014,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1015,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1016,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1017,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1018,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1019,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1020,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1021,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1022,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1023,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1024,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1025,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1026,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1027,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1028,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1029,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1030,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1031,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1032,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1033,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1034,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1035,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1036,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1037,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1038,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1039,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1040,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1041,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1042,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1043,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1044,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1045,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1046,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1047,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1048,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1049,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1050,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1051,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1052,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1053,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1054,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1055,Geitost,15,4,500 g,2.5000,112,0,20,0
+1056,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1057,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1058,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1059,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1060,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1061,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1062,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1063,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1064,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1065,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1066,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1067,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1068,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1069,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1070,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1071,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1072,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1073,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1074,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1075,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1076,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1077,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1078,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1079,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1080,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1081,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1082,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1083,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1084,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1085,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1086,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1087,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1088,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1089,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1090,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1091,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1092,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1093,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1094,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1095,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1096,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1097,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1098,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1099,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1100,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1101,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1102,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1103,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1104,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1105,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1106,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1107,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1108,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1109,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1110,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1111,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1112,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1113,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1114,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1115,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1116,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1117,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1118,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1119,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1120,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1121,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1122,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1123,Geitost,15,4,500 g,2.5000,112,0,20,0
+1124,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1125,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1126,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1127,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1128,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1129,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1130,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1131,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1132,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1133,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1134,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1135,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1136,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1137,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1138,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1139,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1140,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1141,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1142,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1143,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1144,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1145,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1146,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1147,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1148,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1149,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1150,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1151,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1152,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1153,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1154,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1155,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1156,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1157,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1158,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1159,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1160,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1161,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1162,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1163,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1164,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1165,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1166,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1167,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1168,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1169,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1170,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1171,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1172,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1173,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1174,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1175,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1176,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1177,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1178,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1179,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1180,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1181,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1182,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1183,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1184,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1185,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1186,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1187,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1188,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1189,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1190,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1191,Geitost,15,4,500 g,2.5000,112,0,20,0
+1192,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1193,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1194,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1195,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1196,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1197,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1198,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1199,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1200,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1201,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1202,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1203,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1204,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1205,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1206,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1207,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1208,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1209,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1210,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1211,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1212,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1213,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1214,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1215,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1216,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1217,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1218,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1219,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1220,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1221,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1222,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1223,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1224,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1225,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1226,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1227,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1228,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1229,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1230,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1231,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1232,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1233,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1234,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1235,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1236,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1237,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1238,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1239,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1240,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1241,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1242,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1243,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1244,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1245,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1246,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1247,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1248,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1249,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1250,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1251,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1252,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1253,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1254,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1255,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1256,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1257,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1258,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1259,Geitost,15,4,500 g,2.5000,112,0,20,0
+1260,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1261,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1262,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1263,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1264,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1265,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1266,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1267,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1268,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1269,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1270,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1271,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1272,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1273,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1274,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1275,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1276,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1277,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1278,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1279,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1280,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1281,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1282,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1283,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1284,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1285,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1286,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1287,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1288,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1289,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1290,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1291,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1292,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1293,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1294,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1295,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1296,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1297,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1298,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1299,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1300,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1301,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1302,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1303,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1304,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1305,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1306,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1307,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1308,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1309,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1310,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1311,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1312,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1313,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1314,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1315,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1316,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1317,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1318,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1319,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1320,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1321,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1322,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1323,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1324,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1325,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1326,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1327,Geitost,15,4,500 g,2.5000,112,0,20,0
+1328,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1329,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1330,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1331,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1332,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1333,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1334,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1335,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1336,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1337,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1338,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1339,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1340,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1341,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1342,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1343,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1344,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1345,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1346,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1347,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1348,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1349,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1350,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1351,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1352,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1353,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1354,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1355,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1356,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1357,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1358,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1359,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1360,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1361,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1362,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1363,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1364,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1365,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1366,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1367,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1368,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1369,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1370,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1371,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1372,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1373,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1374,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1375,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1376,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1377,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1378,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1379,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1380,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1381,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1382,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1383,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1384,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1385,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1386,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1387,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1388,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1389,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1390,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1391,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1392,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1393,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1394,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1395,Geitost,15,4,500 g,2.5000,112,0,20,0
+1396,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1397,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1398,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1399,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1400,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1401,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1402,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1403,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1404,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1405,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1406,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1407,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1408,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1409,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1410,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1411,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1412,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1413,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1414,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1415,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1416,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1417,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1418,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1419,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1420,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1421,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1422,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1423,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1424,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1425,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1426,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1427,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1428,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1429,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1430,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1431,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1432,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1433,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1434,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1435,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1436,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1437,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1438,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1439,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1440,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1441,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1442,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1443,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1444,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1445,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1446,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1447,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1448,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1449,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1450,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1451,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1452,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1453,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1454,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1455,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1456,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1457,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1458,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1459,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1460,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1461,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1462,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1463,Geitost,15,4,500 g,2.5000,112,0,20,0
+1464,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1465,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1466,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1467,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1468,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1469,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1470,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1471,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1472,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1473,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1474,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1475,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1476,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1477,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1478,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1479,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1480,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1481,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1482,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1483,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1484,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1485,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1486,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1487,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1488,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1489,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1490,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1491,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1492,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1493,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1494,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1495,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1496,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1497,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1498,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1499,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1500,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1501,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1502,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1503,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1504,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1505,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1506,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1507,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1508,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1509,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1510,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1511,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1512,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1513,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1514,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1515,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1516,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1517,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1518,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1519,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1520,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1521,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1522,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1523,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1524,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1525,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1526,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1527,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1528,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1529,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1530,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1531,Geitost,15,4,500 g,2.5000,112,0,20,0
+1532,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1533,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1534,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1535,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1536,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1537,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1538,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1539,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1540,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1541,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1542,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1543,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1544,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1545,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1546,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1547,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1548,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1549,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1550,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1551,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1552,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1553,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1554,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1555,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1556,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1557,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1558,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1559,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1560,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1561,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1562,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1563,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1564,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1565,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1566,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1567,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1568,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1569,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1570,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1571,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1572,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1573,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1574,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1575,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1576,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1577,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1578,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1579,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1580,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1581,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1582,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1583,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1584,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1585,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1586,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1587,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1588,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1589,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1590,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1591,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1592,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1593,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1594,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1595,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1596,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1597,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1598,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1599,Geitost,15,4,500 g,2.5000,112,0,20,0
+1600,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1601,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1602,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1603,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1604,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1605,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1606,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1607,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1608,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1609,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1610,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1611,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1612,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1613,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1614,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1615,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1616,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1617,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1618,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1619,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1620,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1621,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1622,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1623,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1624,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1625,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1626,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1627,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1628,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1629,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1630,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1631,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1632,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1633,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1634,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1635,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1636,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1637,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1638,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1639,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1640,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1641,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1642,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1643,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1644,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1645,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1646,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1647,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1648,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1649,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1650,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1651,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1652,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1653,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1654,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1655,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1656,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1657,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1658,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1659,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1660,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1661,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1662,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1663,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1664,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1665,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1666,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1667,Geitost,15,4,500 g,2.5000,112,0,20,0
+1668,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1669,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1670,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1671,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1672,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1673,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1674,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1675,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1676,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1677,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1678,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1679,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1680,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1681,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1682,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1683,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1684,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1685,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1686,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1687,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1688,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1689,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1690,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1691,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1692,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1693,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1694,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1695,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1696,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1697,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1698,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1699,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1700,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1701,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1702,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1703,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1704,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1705,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1706,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1707,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1708,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1709,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1710,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1711,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1712,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1713,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1714,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1715,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1716,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1717,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1718,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1719,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1720,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1721,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1722,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1723,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1724,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1725,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1726,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1727,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1728,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1729,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1730,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1731,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1732,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1733,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1734,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1735,Geitost,15,4,500 g,2.5000,112,0,20,0
+1736,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1737,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1738,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1739,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1740,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1741,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1742,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1743,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1744,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1745,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1746,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1747,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1748,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1749,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1750,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1751,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1752,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1753,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1754,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1755,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1756,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1757,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1758,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1759,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1760,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1761,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1762,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1763,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1764,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1765,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1766,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1767,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1768,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1769,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1770,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1771,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1772,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1773,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1774,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1775,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1776,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1777,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1778,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1779,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1780,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1781,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1782,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1783,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1784,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1785,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1786,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1787,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1788,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1789,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1790,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1791,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1792,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1793,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1794,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1795,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1796,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1797,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1798,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1799,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1800,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1801,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1802,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1803,Geitost,15,4,500 g,2.5000,112,0,20,0
+1804,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1805,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1806,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1807,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1808,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1809,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1810,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1811,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1812,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1813,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1814,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1815,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1816,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1817,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1818,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1819,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1820,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1821,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1822,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1823,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1824,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1825,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1826,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1827,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1828,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1829,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1830,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1831,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1832,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1833,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1834,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1835,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1836,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1837,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1838,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1839,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1840,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1841,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1842,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1843,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1844,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1845,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1846,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1847,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1848,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1849,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1850,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1851,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1852,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1853,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1854,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1855,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1856,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1857,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1858,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1859,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1860,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1861,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1862,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1863,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1864,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1865,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1866,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1867,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1868,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1869,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1870,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1871,Geitost,15,4,500 g,2.5000,112,0,20,0
+1872,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1873,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1874,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1875,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1876,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1877,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1878,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1879,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1880,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1881,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1882,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1883,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1884,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1885,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1886,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1887,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1888,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1889,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1890,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1891,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1892,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1893,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1894,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1895,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1896,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1897,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1898,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1899,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1900,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1901,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1902,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1903,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1904,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1905,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1906,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1907,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1908,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1909,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1910,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1911,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1912,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1913,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1914,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1915,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1916,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1917,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1918,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1919,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1920,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1921,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1922,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1923,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1924,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1925,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1926,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1927,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1928,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1929,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1930,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1931,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+1932,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+1933,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+1934,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+1935,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+1936,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+1937,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+1938,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+1939,Geitost,15,4,500 g,2.5000,112,0,20,0
+1940,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+1941,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+1942,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+1943,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+1944,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+1945,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+1946,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+1947,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+1948,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+1949,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+1950,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+1951,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+1952,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+1953,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+1954,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+1955,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+1956,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+1957,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+1958,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+1959,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+1960,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+1961,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+1962,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+1963,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+1964,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+1965,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+1966,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+1967,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+1968,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+1969,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+1970,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+1971,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+1972,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+1973,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+1974,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+1975,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+1976,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+1977,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+1978,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+1979,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+1980,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+1981,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+1982,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+1983,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+1984,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+1985,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+1986,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+1987,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+1988,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+1989,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+1990,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+1991,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+1992,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+1993,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+1994,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+1995,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+1996,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+1997,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+1998,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+1999,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+2000,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+2001,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+2002,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+2003,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+2004,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+2005,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+2006,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+2007,Geitost,15,4,500 g,2.5000,112,0,20,0
+2008,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+2009,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+2010,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+2011,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+2012,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+2013,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+2014,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+2015,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+2016,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+2017,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+2018,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+2019,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+2020,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+2021,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+2022,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+2023,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+2024,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+2025,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+2026,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+2027,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+2028,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+2029,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+2030,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+2031,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+2032,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+2033,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+2034,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+2035,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+2036,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+2037,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+2038,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+2039,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+2040,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+2041,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+2042,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+2043,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+2044,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+2045,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+2046,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+2047,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+2048,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+2049,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+2050,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+2051,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+2052,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+2053,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+2054,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+2055,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+2056,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+2057,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+2058,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+2059,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+2060,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+2061,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+2062,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+2063,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+2064,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+2065,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+2066,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+2067,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+2068,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+2069,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+2070,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+2071,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+2072,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+2073,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+2074,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+2075,Geitost,15,4,500 g,2.5000,112,0,20,0
+2076,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+2077,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+2078,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+2079,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+2080,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+2081,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+2082,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+2083,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+2084,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+2085,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+2086,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+2087,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+2088,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+2089,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+2090,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+2091,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+2092,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+2093,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+2094,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+2095,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+2096,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+2097,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+2098,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+2099,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+2100,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+2101,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+2102,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+2103,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+2104,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+2105,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+2106,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+2107,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+2108,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+2109,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+2110,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+2111,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+2112,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+2113,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+2114,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+2115,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+2116,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+2117,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
+2118,Chai,1,1,10 boxes x 20 bags,18.0000,39,0,10,0
+2119,Chang,1,1,24 - 12 oz bottles,19.0000,17,40,25,0
+2120,Aniseed Syrup,1,2,12 - 550 ml bottles,10.0000,13,70,25,0
+2121,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40.0000,6,0,0,0
+2122,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97.0000,29,0,0,1
+2123,Ikura,4,8,12 - 200 ml jars,31.0000,31,0,0,0
+2124,Queso Cabrales,5,4,1 kg pkg.,21.0000,22,30,30,0
+2125,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38.0000,86,0,0,0
+2126,Konbu,6,8,2 kg box,6.0000,24,0,5,0
+2127,Tofu,6,7,40 - 100 g pkgs.,23.2500,35,0,0,0
+2128,Genen Shouyu,6,2,24 - 250 ml bottles,15.5000,39,0,5,0
+2129,Pavlova,7,3,32 - 500 g boxes,17.4500,29,0,10,0
+2130,Alice Mutton,7,6,20 - 1 kg tins,39.0000,0,0,0,1
+2131,Carnarvon Tigers,7,8,16 kg pkg.,62.5000,42,0,0,0
+2132,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.2000,25,0,5,0
+2133,Tunnbrd,9,5,12 - 250 g pkgs.,9.0000,61,0,25,0
+2134,Guaran Fantstica,10,1,12 - 355 ml cans,4.5000,20,0,0,1
+2135,NuNuCa Nu-Nougat-Creme,11,3,20 - 450 g glasses,14.0000,76,0,30,0
+2136,Gumbr Gummibrchen,11,3,100 - 250 g bags,31.2300,15,0,0,0
+2137,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000,49,0,30,0
+2138,Rssle Sauerkraut,12,7,25 - 825 g cans,45.6000,26,0,0,1
+2139,Thringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.7900,0,0,0,1
+2140,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8900,10,0,15,0
+2141,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5000,0,70,20,0
+2142,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.0000,9,40,25,0
+2143,Geitost,15,4,500 g,2.5000,112,0,20,0
+2144,Sasquatch Ale,16,1,24 - 12 oz bottles,14.0000,111,0,15,0
+2145,Steeleye Stout,16,1,24 - 12 oz bottles,18.0000,20,0,15,0
+2146,Inlagd Sill,17,8,24 - 250 g  jars,19.0000,112,0,20,0
+2147,Gravad lax,17,8,12 - 500 g pkgs.,26.0000,11,50,25,0
+2148,Cte de Blaye,18,1,12 - 75 cl bottles,263.5000,17,0,15,0
+2149,Chartreuse verte,18,1,750 cc per bottle,18.0000,69,0,5,0
+2150,Boston Crab Meat,19,8,24 - 4 oz tins,18.4000,123,0,30,0
+2151,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.0000,26,0,0,1
+2152,Ipoh Coffee,20,1,16 - 500 g tins,46.0000,17,10,25,0
+2153,Gula Malacca,20,2,20 - 2 kg bags,19.4500,27,0,15,0
+2154,Rogede sild,21,8,1k pkg.,9.5000,5,70,15,0
+2155,Spegesild,21,8,4 - 450 g glasses,12.0000,95,0,0,0
+2156,Zaanse koeken,22,3,10 - 4 oz boxes,9.5000,36,0,0,0
+2157,Chocolade,22,3,10 pkgs.,12.7500,15,70,25,0
+2158,Maxilaku,23,3,24 - 50 g pkgs.,20.0000,10,60,15,0
+2159,Valkoinen suklaa,23,3,12 - 100 g bars,16.2500,65,0,30,0
+2160,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.0000,20,0,10,0
+2161,Filo Mix,24,5,16 - 2 kg boxes,7.0000,38,0,25,0
+2162,Perth Pasties,24,6,48 pieces,32.8000,0,0,0,1
+2163,Tourtire,25,6,16 pies,7.4500,21,0,10,0
+2164,Pt chinois,25,6,24 boxes x 2 pies,24.0000,115,0,20,0
+2165,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.0000,21,10,30,0
+2166,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5000,36,0,20,0
+2167,Escargots de Bourgogne,27,8,24 pieces,13.2500,62,0,20,0
+2168,Raclette Courdavault,28,4,5 kg pkg.,55.0000,79,0,0,0
+2169,Camembert Pierrot,28,4,15 - 300 g rounds,34.0000,19,0,0,0
+2170,Tarte au sucre,29,3,48 pies,49.3000,17,0,0,0
+2171,Vegie-spread,7,2,15 - 625 g jars,43.9000,24,0,5,0
+2172,Wimmers gute Semmelkndel,12,5,20 bags x 4 pieces,33.2500,22,80,30,0
+2173,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0500,76,0,0,0
+2174,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.0000,4,100,20,0
+2175,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.0000,52,0,10,0
+2176,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5000,6,10,15,0
+2177,Gudbrandsdalsost,15,4,10 kg pkg.,36.0000,26,0,15,0
+2178,Outback Lager,7,1,24 - 355 ml bottles,15.0000,15,10,30,0
+2179,Flotemysost,15,4,10 - 500 g pkgs.,21.5000,26,0,0,0
+2180,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.8000,14,0,0,0
+2181,Rd Kaviar,17,8,24 - 150 g jars,15.0000,101,0,5,0
+2182,Longlife Tofu,4,7,5 kg pkg.,10.0000,4,20,5,0
+2183,Rhnbru Klosterbier,12,1,24 - 0.5 l bottles,7.7500,125,0,25,0
+2184,Lakkalikri,23,1,500 ml,18.0000,57,0,20,0
+2185,Original Frankfurter grne Soe,12,2,12 boxes,13.0000,32,0,15,0
